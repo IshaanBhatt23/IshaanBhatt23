@@ -1,4 +1,4 @@
-#Hey, I’m Ishaan Bhatt 👋
+# Hey, I’m Ishaan Bhatt 👋
 
 💻 Final-year B.Tech student in Computer Science at KIIT<br/>
 🧠 Passionate about Artificial Intelligence and Machine Learning<br/>
